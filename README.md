@@ -6,4 +6,4 @@ This app is like a digital hub for your personal or professional projects. It ha
 
 ### Responsive design
 
-Life preview:
+Life preview: https://template-webpage.netlify.app/
